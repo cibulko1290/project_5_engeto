@@ -1,8 +1,8 @@
 # project_5_engeto
 Power BI report
 
-This year, 2026, it is my special universary. One half of my lifetime I am driver. I would discribe myself like a very responsible and rational. I haven't got any accident yet and no point in the penalty system. There is no magic. Everytime, when I sit in the car I think on the mom's sentence: The world is full of crazy drivers.
+The year 2026 marks a special anniversary for me. For half of my life, I've had a driving licence. I would discribe myself as a very responsible and rational driver. I haven't had any accidents yet and no points deducted in the penalty system. Everytime I sit in front of the steering wheel, I think of what my mom once said to me: The world is full of crazy drivers.
 
-In my report I would like to show the data about situation on the Czech roads. I focused on the penalty point system and accidents. Also I added the trend of traffid accidents between 2009 and 2021. The number comparison with South Moravia is important for me, because in this region I live. 
+In my report I would like to show the data about the situation on the Czech roads. I focused on the penalty point system and accidents. I also added the trend of traffic accidents between 2009 and 2021. The comparison with the South Moravian region is important to me, because I live in this region. 
 
-I hope, that this report could be usefull for every young driver.
+I hope every new driver would find this report useful.
