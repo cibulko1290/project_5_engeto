@@ -1,4 +1,4 @@
-# project_5_Traffic in Czechia 2024 & 2025: The penalty system and the number of causes of accidents
+# Traffic in Czechia 2024 & 2025: The penalty system and the number of causes of accidents
 Power BI report
 
 The year 2026 marks a special anniversary for me. For half of my life, I've had a driving licence. I would discribe myself as a very responsible and rational driver. I haven't had any accidents yet and no points deducted in the penalty system. Everytime I sit in front of the steering wheel, I think of what my mom once said to me: The world is full of crazy drivers.
